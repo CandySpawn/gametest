@@ -5,7 +5,7 @@ Game Test
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Little cat Meadow</title>
+<title>The Yellow Cat</title>
 <style>
   :root {
     --sky-day: #bfe9ff;
