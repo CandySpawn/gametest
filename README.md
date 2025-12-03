@@ -60,10 +60,10 @@ Game Test
     <span>Lives: <strong id="lives">3</strong></span>
     <span>Best: <strong id="best">0</strong></span>
   </div>
-  <canvas id="game" width="800" height="450" aria-label="Little cat Meadow"></canvas>
+  <canvas id="game" width="800" height="450" aria-label="The Yellow Cat"></canvas>
   <div class="panel" id="panel">
     <div class="card">
-      <h1>Little cat Meadow</h1>
+      <h1>The Yellow Cat</h1>
       <p>Collect apples, avoid ladybugs, and enjoy a gentle stroll.</p>
       <p>Controls: ← → move, Space to jump</p>
       <div class="btns">
